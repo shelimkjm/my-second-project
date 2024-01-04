@@ -1,13 +1,21 @@
-
-.hd{
- margin:10px;
-
- width:90px;
- color:blue
- background-color:aquamarine;
+*{
+    margin: 0;
+    padding:0;
 
 }
-#firsth{
-    color:rgb(255, 0, 149);
-    background-color: blanchedalmond;
-    text-align: center;
+.aaa{
+    color:brown;
+    background-image: url(../images/image1.jpg);
+    margin:100px;
+    width:80%;
+    margin-top:0;
+    margin-bottom: 0;
+    height:300px;
+    background-size: 90%;
+    background-position: center;
+    background-color: antiquewhite;
+
+
+    
+}
+
